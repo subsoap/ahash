@@ -2,7 +2,7 @@
 
 Automatic Hash for Defold
 
-	https://github.com/subsoap/vibrate/archive/master.zip
+	https://github.com/subsoap/ahash/archive/master.zip
 
 Require it locally or globablly if you wish to have it available in your entire project.
 	
