@@ -1,0 +1,15 @@
+[bootstrap]
+main_collection = /example/main.collectionc
+
+[script]
+shared_state = 1
+
+[project]
+title = AHash
+
+[library]
+include_dirs = ahash
+
+[input]
+game_binding = /example/input/game.input_bindingc
+
