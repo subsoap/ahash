@@ -4,7 +4,10 @@ function init(self)
 	print(hash("ahash"))
 	print(ahash.ahash)
 	print(ahash.MY_CUSTOM_HASH)
-
+	
+	if (ahash.MY_CUSTOM_HASH == hash("MY_CUSTOM_HASH")) then 
+		print("It works!")
+	end
 end
 
 function final(self)
